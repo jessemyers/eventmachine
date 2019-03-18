@@ -1,6 +1,6 @@
 # eventmachine
 
-Opinionated, event-driven state machines
+Opinionated, distributed, event-driven state machines
 
 
 ## Goal
